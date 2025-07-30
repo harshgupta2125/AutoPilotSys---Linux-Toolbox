@@ -47,3 +47,30 @@ A powerful and interactive Bash-based Linux toolbox for system admins, DevOps en
 7. Security Check (Ports + Logs)
 8. Package & OS Update Manager
 9. Exit
+
+
+
+
+---
+
+## 📦 Installation
+
+### 🔐 Prerequisites:
+- ✅ Linux system (Debian/Ubuntu recommended)
+- ✅ Bash shell (`bash`)
+- ✅ `sudo` privileges
+
+### 🛠 Setup Instructions:
+
+Clone the repository and give execution permissions:
+
+```bash
+git clone https://github.com/yourusername/autopilotsys.git
+cd autopilotsys
+chmod +x autopilotsys.sh
+./autopilotsys.sh
+
+
+👨‍💻 Author
+🧠 Built by: Harsh Gupta
+Linux Automation Enthusiast | DevOps Learner | CLI Toolsmith
